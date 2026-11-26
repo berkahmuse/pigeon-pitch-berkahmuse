@@ -1,11 +1,11 @@
 # Pigeon Pitch, One Line
 
-[![make.fun](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf.svg)](https://make.fun/c/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
-[![rank](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf/berkahmuse/pigeon-pitch-berkahmuse/rank.svg)](https://make.fun/c/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
-[![reward](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf/berkahmuse/pigeon-pitch-berkahmuse/reward.svg)](https://make.fun/c/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
+[![make.fun](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf.svg)](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
+[![rank](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf/berkahmuse/pigeon-pitch-berkahmuse/rank.svg)](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
+[![reward](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf/berkahmuse/pigeon-pitch-berkahmuse/reward.svg)](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
 
 Entry for the make.fun competition
-[Pigeon Pitch, One Line](https://make.fun/c/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
+[Pigeon Pitch, One Line](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf)
 (`u-donrulezz-pigeon-pitch-one-line-af06c6cf`).
 
 The program (`main.py`, Python 3.13) writes one line — at most 200 characters —
